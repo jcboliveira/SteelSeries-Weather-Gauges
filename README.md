@@ -1,4 +1,6 @@
 SteelSeries-Weather-Gauges
 ==========================
+Added angular client
+This example uses the modified wview in my github.
+However it's easy to use any PWS with a json file.
 
-HTML 5 Weather Gauges Templates for Cumulus, Weather Display, WeatherCat, and other PWS programs. It is based on the SteelSeries gauges from HansSolo.
