@@ -1,6 +1,10 @@
 SteelSeries-Weather-Gauges
 ==========================
 Added angular client
-This example uses the modified wview in my github.
-However it's easy to use any PWS with a json file.
+The server is in nodejs with two flavours:
+
+1 - Using he modified wview in my github.Realtimeparametersend.js 
+2 - Using the latest wview release; Standardparametersend
+
+However it can be adapted to any PWS with a json file.
 
